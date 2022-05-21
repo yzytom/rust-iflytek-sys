@@ -1,6 +1,6 @@
 [package]
 name = "iflytek-sys"
-version = "0.0.3"
+version = "0.0.4"
 edition = "2021"
 authors = ["yzytom <hatom2011@qq.com>"]
 rust-version = "1.56"
