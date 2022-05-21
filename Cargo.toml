@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["yzytom <hatom2011@qq.com>"]
 rust-version = "1.56"
 description = "科大讯飞SDK绑定"
-license = "BSD"
+license = "BSD-3-Clause"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [build-dependencies]
