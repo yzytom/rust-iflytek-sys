@@ -7,7 +7,7 @@ rust-version = "1.56"
 description = "科大讯飞SDK绑定"
 license = "BSD-3-Clause"
 repository = "https://github.com/yzytom/rust-iflytek-sys"
-keywords = ["科大讯飞", "iflytek","speech engine","identify engine","文字转语音","语音识别","tts"]
+keywords = [ "iflytek","speech engine","identify engine","KeDaXunFei","TTS"]
 categories = ["api-bindings"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
