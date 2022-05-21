@@ -6,6 +6,7 @@ authors = ["yzytom <hatom2011@qq.com>"]
 rust-version = "1.56"
 description = "科大讯飞SDK绑定"
 license = "BSD-3-Clause"
+repository = "https://github.com/yzytom/rust-iflytek-sys"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [build-dependencies]
